@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring AI/ML Software Engineer | Automation Specialist
 
-I am a tech-driven problem solver currently pursuing my **B.Sc. in Physics, Chemistry, and Mathematics**. I specialize in bridging the gap between strong analytical sciences and modern Artificial Intelligence. I am passionate about engineering autonomous workflows, building conversational interfaces, and utilizing Large Language Models to solve real-world bottlenecks. 
+I am a tech-driven problem solver . I specialize in bridging the gap between strong analytical sciences and modern Artificial Intelligence. I am passionate about engineering autonomous workflows, building conversational interfaces, and utilizing Large Language Models to solve real-world bottlenecks. 
 
 When I am not orchestrating multi-agent AI systems, you can find me diving deep into complex Organic Chemistry mechanisms, designing highly disciplined productivity routines, or practicing my conversational French.
 
